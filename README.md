@@ -1,4 +1,4 @@
-## 🚀 Skills & Concepts Covered So Far
+##  Skills & Concepts Covered So Far
 
 ### 1. Foundations & Data Retrieval
 * **Basic Filtering & Sorting**: Restricting rows with `WHERE` and organizing results using `ORDER BY` (including `ASC`/`DESC`).
