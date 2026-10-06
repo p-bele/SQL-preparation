@@ -1,4 +1,6 @@
- -- Find all employees who earn more than $80,000 and work in either the HR or Admin department
+--problem: Find all employees who earn more than $80,000 and work in either the HR or Admin department
+--platform: StrataScratch
+--logic: using IN, instead of multiple or's to filter departments and then filtering salary
 
 SELECT 
     first_name,
