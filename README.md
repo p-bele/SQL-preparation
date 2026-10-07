@@ -1,6 +1,6 @@
 # Data Analytics Portfolio & Interview Preparation
 
-Welcome to my central repository! This project documents my learning journey, skills development, and solutions to data analysis problems from top platforms like **StrataScratch** and **LeetCode**. 
+Welcome to my central repository! This project documents my learning journey, skills development, and solutions to data analysis problems from top platforms like **StrataScratch**, **HackerRank** and **LeetCode**. 
 
 My goal is to build a comprehensive portfolio covering database management, data manipulation, and statistical modeling as I prepare for my Master's studies and transition into a **Data Analyst** role.
 
