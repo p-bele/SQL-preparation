@@ -1,4 +1,6 @@
-
+--problem: Count Employees per Department
+--platfrom: StrataScratch
+--logic: Aggregate employee records to calculate the head count for each department
 
 SELECT
     department,
