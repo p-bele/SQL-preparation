@@ -1,7 +1,7 @@
 --problem: A product analytics team wants to understand which events are most commonly performed on MacBook Pro devices.
        Count the number of times each event was performed using a MacBook Pro. Output the event name and its event count.
-platform: StrataScratch
-logic: --logic: Filter log data for MacBook Pro devices, then aggregate records by event type to calculate total occurrences, 
+-- platform: StrataScratch
+--logic: Filter log data for MacBook Pro devices, then aggregate records by event type to calculate total occurrences, 
     sorted from most to least frequent.
 
 
