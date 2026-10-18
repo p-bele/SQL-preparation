@@ -1,3 +1,4 @@
+--platfrom: StrataScratch
 -- find top ranked songs and how many times they hit #1
 
 SELECT trackname, count(*) AS ranked_first
