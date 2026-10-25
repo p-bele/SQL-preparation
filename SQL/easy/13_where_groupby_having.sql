@@ -1,3 +1,7 @@
+--platform: StrataScratch
+--logic: This finds departments where recent hires have an average salary over 80K. 
+--        WHERE narrows down who’s included, HAVING narrows down which groups you see.
+
 SELECT
   department,
   AVG(salary) AS avg_salary
