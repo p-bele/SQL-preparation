@@ -1,4 +1,6 @@
-
+--platform: StrataScratch
+--problem: Find departments with more than 2 employees and an average salary over 75000.
+--logic: I will create department bins to use aggregate functions and then filter these bins with HAVING 
 
 SELECT
   department,
