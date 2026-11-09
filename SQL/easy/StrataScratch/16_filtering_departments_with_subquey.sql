@@ -1,5 +1,6 @@
 --platform: StrataScratch
 --problem:Find departments with at more than or equal 5 employees.
+--2 ways of solving this problem, of course we prefer the first one as it is more convenient
 
 --the normal way using HAVING
 SELECT department
