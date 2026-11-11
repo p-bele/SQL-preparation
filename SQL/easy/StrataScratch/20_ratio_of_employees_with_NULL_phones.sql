@@ -5,5 +5,5 @@ SELECT
 FROM techcorp_workforce
 
 -- SELECT 
---     (COUNT(*)-COUNT(phone_number))::DECIMAL/NULLIF(COUNT(*),0) AS NULL_RATIO
+--     (COUNT(*)-COUNT(phone_number))::DECIMAL/NULLIF(COUNT(*),0) AS null_phone_ratio
 -- FROM techcorp_workforce;
