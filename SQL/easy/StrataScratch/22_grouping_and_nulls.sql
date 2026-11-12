@@ -1,4 +1,4 @@
--- when grouping, all null's are getting grouped together
+-- when grouping, all nulls are getting grouped together
 
 --problem: Find customer IDs that placed more than one order in `online_retail`. 
 --Notice how rows missing a customer ID form their own group.
